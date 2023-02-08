@@ -2,5 +2,6 @@
 * Luiz M.
 * Otavio  J.
 * Luiz A.
-* Iédio João Carabolante Júnior 
+* Iédio João Carabolante Júnior
+* Manan S.
 *
